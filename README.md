@@ -1,3 +1,2 @@
-# Introduction
+This is some content for second version.
 
-This is some content.
