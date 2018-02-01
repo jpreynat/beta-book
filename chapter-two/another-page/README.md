@@ -1,2 +1,1 @@
-Here is another page
-
+Here is another page.
