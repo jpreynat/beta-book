@@ -12,5 +12,5 @@ This is a hint.
 
 And this is an image:
 
-![My dear friend Pete](.gitbook/assets/pete.jpeg)
+![My dear friend Pete](../.gitbook/assets/pete.jpeg)
 
