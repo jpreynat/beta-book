@@ -1,3 +1,3 @@
 This is some content for second version.
 
-Bla bla bla
+Bla bla bla, bla bla.
